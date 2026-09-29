@@ -1,0 +1,36 @@
+#body {
+      
+    background-color: #a19999;
+    height: 500px;
+    width: 400px;
+    align-items: center;
+    text-align: center;
+    margin: 100px auto;
+
+}
+#name {
+    color:blue
+}
+img {
+    height: 100px;
+    border-radius: 90%;
+}
+.title{
+    color: #10d82e;
+}
+ul{
+    text-align: left;
+}
+nav {
+    background-color: #454141;
+    padding: 10px;
+    text-align: center;
+}
+.nav {
+    color: #293cc9;
+}
+#logo {
+    margin-top: 10px;
+    height: 40px;
+
+}
